@@ -1,11 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working at InfinitzHost
+- 🔭 I’m currently working on FreeLicenses
 - 🌱 I’m currently learning apache config stuff(#nginxisbetter)
-- 👯 I’m looking to collaborate on tbh nothing
-- 🤔 I’m looking for help with apache config ofc
-- 💬 Ask me about Nothing
-- 📫 How to reach me: fatgrizzly@infinitzhost.com
-- 😄 Pronouns: He,Him (:|)
-- ⚡ Fun fact: You have read my profile fully :)
-
-pls teach me apache, ik it's shit but...
+- 💬 Ask me anything.
+- 📫 How to reach me: administrator at soundar dot eu dot org
+- 😄 Pronouns: He,Him
+- ⚡ Likes: Debian,Litespeed,NGINX.
